@@ -1,3 +1,3 @@
 # astralapp_test
 
-[apitest](/api/stars/export)
+[apitest](@baidu.com/api/stars/export)
