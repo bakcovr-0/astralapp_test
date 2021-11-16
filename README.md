@@ -1,3 +1,5 @@
 # astralapp_test
 
-[apitest](@baidu.com/api/stars/export)
+[export](/api/stars/export)
+[signout](/auth/signout)
+[revoke](/api/auth/revoke)
